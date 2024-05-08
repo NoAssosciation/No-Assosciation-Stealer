@@ -3,7 +3,7 @@
 
 
 
-<p align="center"><a href="https://discord.com/invite/USX6TTSB" target="_blank">✨ Join Telegram for support and contact (Click me! ) ✨ </a>
+<p align="center"><a href="https://discord.com/invite/USX6TTSB" target="_blank">✨ Join Discord for support, FUD, and to contact me ✨ </a>
 
 
 
