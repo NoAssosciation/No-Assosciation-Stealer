@@ -1,9 +1,9 @@
 <h1 align="center"> Creal Stealer </h1> 
-<p align= "center"> <kbd> <img  src="https://i.imgur.com/MjoICHp.png"width="420"> </kbd><br><br>
+<p align= "center"> <kbd> <img  src="https://i.pinimg.com/564x/1f/c4/d1/1fc4d17491c9b9eb32aebf426f2af717.jpg"width="420"> </kbd><br><br>
 
 
 
-<p align="center"><a href="https://t.me/CrealStealer" target="_blank">✨ Join Telegram for support and contact (Click me! ) ✨ </a>
+<p align="center"><a href="https://discord.com/invite/USX6TTSB" target="_blank">✨ Join Telegram for support and contact (Click me! ) ✨ </a>
 
 
 
@@ -85,22 +85,6 @@
 3. First install reqiured packages by double clicking `install.bat` file
 4. Run the builder by double clicking the `builder.bat` file
 5. Follow instructions in builder and your exe will be found in the `dist` folder under the name `creal.exe`
-
-<div align="center"><img style="display: block; margin-left: auto; margin-right: auto; width: 65%;" src="https://raw.githubusercontent.com/Ayhuuu/Creal-Stealer/main/img/builder.png"></img></div>
-
-                                                       🖼️ Pictures
- 
-<div align="center">
-    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="https://raw.githubusercontent.com/Ayhuuu/Creal-Stealer/main/img/Creal1.jpg"></img> 
-    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="https://raw.githubusercontent.com/Ayhuuu/Creal-Stealer/main/img/Creal2.png"></img>
-    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="35%" src="https://raw.githubusercontent.com/Ayhuuu/Creal-Stealer/main/img/creal4.png"></img>
-    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="https://raw.githubusercontent.com/Ayhuuu/Creal-Stealer/main/img/Creal3.png"></img>
-    
-</div>
- 
- 
-
-
 
 
                                                       ⚠️ Disclaimer
