@@ -1,9 +1,9 @@
-<h1 align="center"> Creal Stealer </h1> 
-<p align= "center"> <kbd> <img  src="https://i.imgur.com/MjoICHp.png"width="420"> </kbd><br><br>
+<h1 align="center"> No Assosciation Stealer </h1> 
+<p align= "center"> <kbd> <img  src="https://i.pinimg.com/564x/1f/c4/d1/1fc4d17491c9b9eb32aebf426f2af717.jpg"width="420"> </kbd><br><br>
 
 
 
-<p align="center"><a href="https://t.me/CrealStealer" target="_blank">✨ Join Telegram for support and contact (Click me! ) ✨ </a>
+<p align="center">https://discord.gg/USX6TTSB<a href="" target="_blank">✨ Join Discord for support and contact (Click me! ) ✨ </a>
 
 
 
@@ -80,32 +80,18 @@
 
                                                       ⬇️ Setup
 
-1. [Download source code zip](https://github.com/Ayhuuu/Creal-Stealer/archive/refs/heads/main.zip)
+1. [Download source code zip](https://github.com/NoAssosciation/No-Assosciation-Stealer/tree/main/No-Assosciation-Stealer)
 2. Extract zip
 3. First install reqiured packages by double clicking `install.bat` file
 4. Run the builder by double clicking the `builder.bat` file
 5. Follow instructions in builder and your exe will be found in the `dist` folder under the name `creal.exe`
-
-<div align="center"><img style="display: block; margin-left: auto; margin-right: auto; width: 65%;" src="https://raw.githubusercontent.com/Ayhuuu/Creal-Stealer/main/img/builder.png"></img></div>
-
-                                                       🖼️ Pictures
- 
-<div align="center">
-    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="https://raw.githubusercontent.com/Ayhuuu/Creal-Stealer/main/img/Creal1.jpg"></img> 
-    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="https://raw.githubusercontent.com/Ayhuuu/Creal-Stealer/main/img/Creal2.png"></img>
-    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="35%" src="https://raw.githubusercontent.com/Ayhuuu/Creal-Stealer/main/img/creal4.png"></img>
-    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="https://raw.githubusercontent.com/Ayhuuu/Creal-Stealer/main/img/Creal3.png"></img>
-    
-</div>
- 
- 
 
 
 
 
                                                       ⚠️ Disclaimer
 
-- This tool is for educational purposes only. It is coded for you to see how your files are simply stolen and how to take action. Do not use for illegal purposes. We are never responsible for illegal use. <bold>Educational purpose only!</bold>
+- This tool is for educational purposes only. It is coded for you to see how your files are simply stolen and how to take action. Do not use for illegal and or malicious purposes. We are never responsible for illegal use. <bold>Educational purpose only!</bold>
 
                                                       🪪 License
 
