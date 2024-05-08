@@ -80,7 +80,7 @@
 
                                                       ⬇️ Setup
 
-1. [Download source code zip](https://github.com/Ayhuuu/Creal-Stealer/archive/refs/heads/main.zip)
+1. Download source code zip
 2. Extract zip
 3. First install reqiured packages by double clicking `install.bat` file
 4. Run the builder by double clicking the `builder.bat` file
